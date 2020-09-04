@@ -1,3 +1,6 @@
+# countdown-calculator
+A react web application which calculates the amount of time left before a given date
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
